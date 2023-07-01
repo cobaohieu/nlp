@@ -1,4 +1,4 @@
-# nlp
+# nlp2sql
 Natural language processing model
 
 
