@@ -1,0 +1,88 @@
+  660  sudo python3 -m pip install -U pip
+  661  sudo pip3 install -r '/home/oem/Dev/NLP2SQL-master/requirements.txt' 
+  662  sudo pip3 install virtualenv
+  663  sudo python3 -m venv venv`
+  664  sudo python3 -m venv venv
+  665  ls
+  666  sudo pip3 install -r requirements.txt
+  667  sudo pip3 install install requests
+  668  sudo pip3 install requests
+  669  venv\scripts\activate
+  670  ls
+  671  pip3 install requests
+  672  source evn/bin/activate\n
+  673  source venv/bin/activate\n
+  674  ls venv/bin/
+  675  ls python3
+  676  ls venv/bin/python3
+  677  ls venv/bin/python3/
+  678  virtualenv venv
+  679  sudo pip3 install --user pipenv
+  680  pipenv install requests 
+  681  sudo pipenv install requests 
+  682  sudo apt install -y build-essential libssl-dev libffi-dev python3-dev\n
+  683  sudo apt-get update
+  684  python3 -m venv my_env\n
+  685  sudo python3 -m venv my_env\n
+  686  ls
+  687  ./my_env/bin/python3 -m pip install -U pip\n
+  688  sudo apt install -y build-essential libssl-dev libffi-dev python3-dev\n
+  689  ls
+  690  sudo rm -rf my_env venv
+  691  ls
+  692  python3 -m venv venv\n
+  693  sudo apt install python3.8-venv -y
+  694  python3 -m venv venv\n
+  695  source my_env/bin/activate\n
+  696  source venv/bin/activate\n
+  697  ls
+  698  pip3 install -r requirements.txt
+  699  sudo apt-get update
+  700  sudo apt-get upgrade
+  701  sudo apt-get install python3-dev default-libmysqlclient-dev build-essential\n -y
+  702* pip3 install -r requirements.txt
+  703  sudo apt-get full-upgrade
+  704* python3 nlp2sql_with_gui.py
+  705* sudo apt install gcc libssl-dev build-essential -y 
+  706* sudo apt install mysql*
+  707* sudo apt install mysql
+  708* sudo apt install mysql-server -y
+  709* sudo mysql_secure_installation
+  710* sudo mysql\n\n
+  711* sudo apt install phpmyadmin php-mbstring php-zip php-gd php-json php-curl\n\n -y
+  712  sudo mysql
+  713  mysql -u root -p
+  714  sudo mysql -u root -p
+  715* python3 nlp2sql_with_gui.py
+  716* ls
+  717* pwd
+  718* python3 nlp2sql_with_gui.py
+  719* mysqladmin -u root password 'Secret Phrase Here'
+  720* sudo mysqladmin -u root password 'Secret Phrase Here'
+  721* sudo mysqladmin -u root password 
+  722* sudo mysqladmin -u root password 'root'
+  723* sudo /etc/init.d/mysql stop\n
+  724* sudo mysqld_safe --skip-grant-tables &\n
+  725* mysql -uroot\n
+  726* sudo mysqld_safe \n
+  727* mysql -uroot\n
+  728* sudo mysql -uroot\n
+  729* sudo /etc/init.d/mysql stop\n
+  730* sudo /etc/init.d/mysql start\n
+  731* sudo mysql -uroot\n
+  732* sudo /usr/local/mysql/support-files/mysql.server stop
+  733* sudo /etc/init.d/mysql stop\n
+  734* sudo mysqld_safe --skip-grant-tables\n
+  735* sudo mysql -u root
+  736* sudo /etc/init.d/mysql start\n
+  737* sudo mysql -u root
+  738* UNINSTALL COMPONENT "file://component_validate_password";
+  739* sudo mysql -u root
+  740* sudo mysql
+  741* sudo python3 nlp2sql_with_gui.py
+  742* sudo ./venv/bin/python3 nlp2sql_with_gui.py
+  743* sudo mysql
+  744* sudo mysql -u root -p 
+  745* sudo ./venv/bin/python3 nlp2sql_with_gui.py
+  746* history > history_1.txt
+  747* history > history_2.txt
