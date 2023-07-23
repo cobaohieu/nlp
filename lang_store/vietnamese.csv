@@ -1,0 +1,18 @@
+AVG: average, avg, Average, trung bình, tính trung bình, tính số trung bình, giá trị trung bình, trung bình cộng
+SUM: sum, total, tổng, tất cả, tính tổng
+MAX: maximum, highest, max, lớn, giá trị lớn nhất, giá trị cao nhất
+MIN: minimum, lowest, min, bé, giá trị bé nhất, giá trị thấp nhất
+COUNT: number, how many, count, bao nhiêu, có bao nhiêu, số lượng
+JUNCTION: and, và, thêm, nối, nối nhau, gặp nhau, giao nhau
+DISJUNCTION: or, hoặc, hay, chia, phân chia
+GREATER: greater, over, greater than, more than, over than, lớn hơn, cao hơn, giá trị lớn hơn
+LESS: less , less than, nhỏ hơn, thấp hơn, giá trị nhỏ hơn
+BETWEEN: between, per, range, giữa, nằm giữa, trong vùng, trong khoảng
+ORDER: order, ordered, sắp xếp, lọc
+ASC: ascending, increasing, tăng, tăng lên, tăng dần
+DESC: descending, decreasing, inverse, reverse, opposite, giảm, giảm dần, giảm xuống
+GROUP: group, grouped, clubbed, nhóm, gom nhóm, gom giá trị
+NEGATION: not, no, không, không được, không có, không cùng
+EQUAL: is, equal, equals, equal to, equals to, are, bằng, như nhau, ngang nhau, cân nhau, bằng nhau, đều nhau
+LIKE: like, likes, similar to, như, như nhau, giống nhau, thật giống, cũng như
+DISTINCT: distinct, different, distinctive, distinctly, unique, khác nhau, phân biệt, chỉ có một, độc nhất, duy nhất, duy nhứt
