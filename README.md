@@ -1,5 +1,6 @@
 # nlp2sql
-Natural language processing model
+Natural language processing to SQL including Vietnamese
+
+Source code fork and modified 
 
 
-Will update soon
