@@ -14,4 +14,5 @@ Natural language processing model translate to SQL command
 ![alt demo](images/img0.jpg)
 
 ## Thanks to
+Anh Tran Thanh Phong 
 Update later
