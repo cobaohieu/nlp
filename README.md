@@ -1,8 +1,6 @@
 # nlp2sql
 Natural language processing model transalte to SQL command
 
-## How to runs
-![alt demo](images/img0.jpg)
 
 ## Demo
 
@@ -13,6 +11,7 @@ Natural language processing model transalte to SQL command
 
 ### Result
 ![alt demo](images/img3.jpg)
+![alt demo](images/img0.jpg)
 
 ## Thanks to
 Update later
