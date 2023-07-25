@@ -1,5 +1,5 @@
 # nlp2sql
-Natural language processing model transalte to SQL command
+Natural language processing model translate to SQL command
 
 
 ## Demo
