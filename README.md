@@ -6,13 +6,13 @@ Natural language processing model transalte to SQL command
 
 ## Demo
 
-![alt demo](img/img1.png)
+![alt demo](images/img1.png)
 
 ### Config
-![alt demo](img/img2.png)
+![alt demo](images/img2.png)
 
 ### Result
-![alt demo](img/img3.png)
+![alt demo](images/img3.png)
 
 ## Thanks to
 Update later
